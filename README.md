@@ -1,6 +1,6 @@
-# Note postulation
+# Suivi de candidatures
 
-Suivi automatique des candidatures à partir de la boîte mail Free.
+Outil Python qui suit automatiquement les candidatures à partir de la boîte mail Free.
 
 Le script lit les mails en IMAP, repère ceux qui concernent une candidature
 (envoi, accusé de réception, réponse positive ou négative), devine l'entreprise
