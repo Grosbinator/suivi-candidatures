@@ -1,0 +1,6 @@
+Candidatures/*/
+!Candidatures/.gitkeep
+a_verifier.csv
+.etat.json
+__pycache__/
+candidatures.csv
